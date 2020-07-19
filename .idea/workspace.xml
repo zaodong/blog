@@ -62,13 +62,15 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
-        <option name="userSettingsFile" value="$USER_HOME$/maven/settings.xml" />
+        <option name="localRepository" value="D:\app\apache-maven-3.6.3\mavenku" />
+        <option name="mavenHome" value="D:/app/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\app\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
@@ -94,11 +96,15 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.49947312" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources/i18n" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static/images" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates/admin" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.lrm.web" />
@@ -106,12 +112,8 @@
       <recent name="com.lrm.service" />
       <recent name="com.lrm.dao" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src/main/resources" />
-      <recent name="$PROJECT_DIR$/src/main/resources/static/images" />
-      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
-      <recent name="$PROJECT_DIR$/src/main/resources/templates/admin" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/i18n" />
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.BlogApplication">
@@ -443,7 +445,7 @@
       <workItem from="1524662421735" duration="602000" />
       <workItem from="1524893653899" duration="3773000" />
       <workItem from="1595121318381" duration="8549000" />
-      <workItem from="1595137331344" duration="4052000" />
+      <workItem from="1595137331344" duration="15403000" />
     </task>
     <servers />
   </component>
@@ -492,30 +494,38 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="223" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595148932767">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1595148932767" />
     <state x="532" y="285" width="472" height="304" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1595141260394">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="532" y="285" width="472" height="304" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.864@0.0.1536.864" timestamp="1595141260394" />
-    <state width="1487" height="140" key="GridCell.Tab.0.bottom" timestamp="1595141228015">
+    <state x="414" y="203" key="FileChooserDialogImpl" timestamp="1595153979919">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1487" height="140" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1595141228015" />
-    <state width="1487" height="140" key="GridCell.Tab.0.center" timestamp="1595141228015">
+    <state x="414" y="203" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1595153979919" />
+    <state width="850" height="140" key="GridCell.Tab.0.bottom" timestamp="1595155435027">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1487" height="140" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1595141228015" />
-    <state width="1487" height="140" key="GridCell.Tab.0.left" timestamp="1595141228015">
+    <state width="850" height="140" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1595155435027" />
+    <state width="850" height="140" key="GridCell.Tab.0.center" timestamp="1595155435027">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1487" height="140" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1595141228015" />
-    <state width="1487" height="140" key="GridCell.Tab.0.right" timestamp="1595141228015">
+    <state width="850" height="140" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1595155435027" />
+    <state width="850" height="140" key="GridCell.Tab.0.left" timestamp="1595155435027">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1487" height="140" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1595141228015" />
-    <state x="164" y="0" key="SettingsEditor" timestamp="1595137346147">
+    <state width="850" height="140" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1595155435027" />
+    <state width="850" height="140" key="GridCell.Tab.0.right" timestamp="1595155435027">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="164" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1595137346147" />
+    <state width="850" height="140" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1595155435027" />
+    <state x="66" y="0" key="SettingsEditor" timestamp="1595155417540">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="66" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1595155417540" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
